@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding..
 - 🌱 I’m currently learning Java
 - 📫 How to reach me sumitchaudhary9409gmail.com
-- 😄 Pronouns: sumit
+- 😄 Pronouns: Sumit
 
 <!---
 sumit9409/sumit9409 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
